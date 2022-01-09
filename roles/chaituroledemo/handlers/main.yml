@@ -1,0 +1,4 @@
+---
+# handlers file for chaituroledemo
+- name: restart chaituroledemo
+  service: name=httpd state=restarted

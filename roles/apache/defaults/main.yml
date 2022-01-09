@@ -1,0 +1,13 @@
+---
+# defaults file for apache
+ap_extra_software:
+- vim
+- git
+
+ap_http_host_dir: "Creator_chaitanya"
+
+ap_http_conf_file: "creator_chaitanya.conf"
+
+ap_http_port: 8000
+
+ap_source_code_location: 'files/source_code/'

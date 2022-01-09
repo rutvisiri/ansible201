@@ -1,0 +1,5 @@
+---
+# setup.yml as a ansible playbook
+- hosts: slave
+  roles:
+  - chaituroledemo
